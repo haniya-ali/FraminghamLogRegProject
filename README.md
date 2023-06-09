@@ -1,7 +1,5 @@
 # FraminghamLogRegProject
 
-![image](https://github.com/haniya-ali/FraminghamLogRegProject/assets/79181650/d24dc89a-ea79-4890-bdd9-8a146a4bb43a)
-
 **Introduction:**
 
 ![image](https://github.com/haniya-ali/FraminghamLogRegProject/assets/79181650/c0764c93-fab1-4103-9663-c567b4b19507)
