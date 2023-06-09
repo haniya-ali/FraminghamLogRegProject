@@ -19,14 +19,14 @@ During the late 1940s, the United States government initiated a significant ende
 
 At regular intervals of two years, participants underwent both a medical examination and responded to a questionnaire. In addition to gathering medical test data, the study also captured information related to the participants' physical and behavioral characteristics. As time progressed, the study expanded its scope, encompassing multiple generations and incorporating numerous additional factors, including genetic information. This extensive dataset is now widely recognized as the Framingham Heart Study, an illustrious and influential resource within cardiovascular research.
 
-In this project, I will utilize the data from the **Framingham Heart Study** to predict coronary heart disease (CHD) and offer recommendations to enhance heart disease prevention. The dataset consists of 3,658 observations, each representing data from a specific study participant. It comprises 16 variables, and the target variable I aim to predict is **TenYearCHD**, which indicates whether a patient will experience coronary heart disease within ten years of their initial examination. Through our modeling endeavors, I anticipate identifying risk factors, which are the variables that heighten the risk of developing CHD.
+In this project, I will utilize the data from the **Framingham Heart Study** to predict coronary heart disease (CHD) and offer recommendations to enhance heart disease prevention. The dataset consists of 3,658 observations, each representing data from a specific study participant. It comprises 16 variables, and the target variable I aim to predict is **TenYearCHD**, which indicates whether a patient will experience coronary heart disease within ten years of their initial examination. Through my modeling endeavors, I anticipate identifying risk factors, which are the variables that heighten the risk of developing CHD.
 
 The primary model that will be employed for this project will be a **logistic regression model** because it is well-suited for predicting binary outcomes like the occurrence of coronary heart disease within ten years.
 
 **Conclusions:**
 In order to offer recommendations to enhance heart disease prevention, this project used the Framingham Heart Study data to develop a logistic regression model that can predict how likeley someone is to develop coronary heart disease within ten years. The model accuracy was ~85% on the test set. 
 
-Our analysis also revealed that the most important risk factors for predicting CHD are:
+My analysis revealed that the most important risk factors for predicting CHD are:
 
 i. age
 
