@@ -2,7 +2,7 @@
 
 Introduction:
 
-<img align="right" alt="Coding" width="400" src="(https://cdn.firespring.com/images/5ee1edad-a4ea-4e4b-81bd-9bbdee19f669.png)">
+![Alt text]([image link](https://cdn.firespring.com/images/5ee1edad-a4ea-4e4b-81bd-9bbdee19f669.png))
 
 
 **Congenital heart defects (CHDs)**, also known as congenital heart abnormalities, are medical conditions that can impact the structure and function of an individual's heart. These defects occur when a baby's heart does not develop normally during pregnancy. They are considered the most common type of birth defect, as stated by the National Library of Medicine.
