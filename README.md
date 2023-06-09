@@ -1,6 +1,6 @@
 # FraminghamLogRegProject
 
-https://mendedhearts.org/wp-content/uploads/2017/03/MEN-web-CHD-Facts-and-Statistics.jpg
+![image](https://github.com/haniya-ali/FraminghamLogRegProject/assets/79181650/d24dc89a-ea79-4890-bdd9-8a146a4bb43a)
 
 **Introduction:**
 
